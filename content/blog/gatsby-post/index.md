@@ -43,13 +43,13 @@ and all other markdown formatting
 
 
 
-<img src="C:\Users\gig\Documents\GitHub\Gergatron-test\buddy-gatsby-blog\content\blog\gatsby-post\me.jpg" alt="me" style="zoom: 67%;" />
+<img src=./me.jpg alt="me" style="zoom: 67%;" />
 
 ###  								
 
-### 																<u>**There's a new *sheriff* in town!!!!**</u> 
+### 																								<u>**There's a new *sheriff* in town!!!!**</u> 
 
-<img src="C:\Users\gig\Documents\GitHub\Gergatron-test\buddy-gatsby-blog\content\blog\gatsby-post\will.jpg" alt="will" style="zoom: 50%;" />
+<img src=./will.jpg alt="will" style="zoom: 50%;" />
 
 
 
